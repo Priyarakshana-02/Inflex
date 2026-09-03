@@ -1,6 +1,0 @@
-{
-  "name": "IncomeFlex",
-  "description": "Your Money, Your Way — Intelligent financial resilience platform adapting tracking, predictions, savings, bill reservations, borrowing safety, and guidance for fixed and variable income earners.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
