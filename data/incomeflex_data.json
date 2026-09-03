@@ -1,0 +1,437 @@
+{
+  "users": [
+    {
+      "id": "usr_1788469384862_lw8j1",
+      "name": "Ravi Kumar",
+      "email": "ravi.kumar@incomeflex.in",
+      "language": "en",
+      "incomeType": "irregular",
+      "voiceEnabled": false,
+      "onboardingStep": 1,
+      "createdAt": "2026-09-03T21:03:04.862Z",
+      "updatedAt": "2026-09-03T21:03:10.846Z"
+    }
+  ],
+  "incomeTransactions": [
+    {
+      "id": "inc_usr_1788469384862_lw8j1_0",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 1600,
+      "date": "2026-08-21",
+      "time": "18:30",
+      "source": "Vegetable sales",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-08-21T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_1",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 1850,
+      "date": "2026-08-22",
+      "time": "18:30",
+      "source": "Shop sales",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-08-22T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_2",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 1400,
+      "date": "2026-08-23",
+      "time": "18:30",
+      "source": "Delivery gig",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-08-23T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_3",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 2100,
+      "date": "2026-08-24",
+      "time": "18:30",
+      "source": "Vegetable sales",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-08-24T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_4",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 2300,
+      "date": "2026-08-25",
+      "time": "18:30",
+      "source": "Customer UPI",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-08-25T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_5",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 2900,
+      "date": "2026-08-26",
+      "time": "18:30",
+      "source": "Weekend rush sales",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-08-26T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_6",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 2750,
+      "date": "2026-08-27",
+      "time": "18:30",
+      "source": "Weekend orders",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-08-27T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_7",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 1700,
+      "date": "2026-08-28",
+      "time": "18:30",
+      "source": "Shop sales",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-08-28T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_8",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 1950,
+      "date": "2026-08-29",
+      "time": "18:30",
+      "source": "Vegetable sales",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-08-29T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_9",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 1800,
+      "date": "2026-08-30",
+      "time": "18:30",
+      "source": "Delivery gig",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_10",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 2200,
+      "date": "2026-08-31",
+      "time": "18:30",
+      "source": "Customer UPI",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-08-31T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_11",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 2600,
+      "date": "2026-09-01",
+      "time": "18:30",
+      "source": "Vegetable sales",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-09-01T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_12",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 3100,
+      "date": "2026-09-02",
+      "time": "18:30",
+      "source": "Weekend shop sales",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-09-02T18:30:00.000Z"
+    },
+    {
+      "id": "inc_usr_1788469384862_lw8j1_13",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 2450,
+      "date": "2026-09-03",
+      "time": "18:30",
+      "source": "Daily collection",
+      "category": "Sales / Gig",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "createdAt": "2026-09-03T18:30:00.000Z"
+    }
+  ],
+  "expenseTransactions": [
+    {
+      "id": "exp_usr_1788469384862_lw8j1_0",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 800,
+      "date": "2026-09-02",
+      "time": "14:00",
+      "category": "Household",
+      "note": "Wholesale mandi stock",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "confirmed": true,
+      "createdAt": "2026-09-03T21:03:10.847Z"
+    },
+    {
+      "id": "exp_usr_1788469384862_lw8j1_1",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 250,
+      "date": "2026-09-02",
+      "time": "14:00",
+      "category": "Transport",
+      "note": "Fuel / Auto LPG",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "confirmed": true,
+      "createdAt": "2026-09-03T21:03:10.847Z"
+    },
+    {
+      "id": "exp_usr_1788469384862_lw8j1_2",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 450,
+      "date": "2026-09-03",
+      "time": "14:00",
+      "category": "Food",
+      "note": "Groceries & provisions",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "confirmed": true,
+      "createdAt": "2026-09-03T21:03:10.847Z"
+    },
+    {
+      "id": "exp_usr_1788469384862_lw8j1_3",
+      "userId": "usr_1788469384862_lw8j1",
+      "amount": 180,
+      "date": "2026-09-03",
+      "time": "14:00",
+      "category": "Utilities",
+      "note": "Stall electricity charge",
+      "status": "VERIFIED",
+      "sourceLabel": "VERIFIED BANK DATA",
+      "confirmed": true,
+      "createdAt": "2026-09-03T21:03:10.847Z"
+    }
+  ],
+  "savingsGoals": [
+    {
+      "id": "goal_usr_1788469384862_lw8j1_1",
+      "userId": "usr_1788469384862_lw8j1",
+      "name": "My Dream Goal 🚀",
+      "targetAmount": 25000,
+      "currentSaved": 6000,
+      "ruleType": "daily_threshold",
+      "thresholdAmount": 2000,
+      "saveAmount": 500,
+      "active": true,
+      "createdAt": "2026-09-03T21:03:10.847Z",
+      "updatedAt": "2026-09-03T21:03:10.847Z"
+    }
+  ],
+  "savingsTransactions": [
+    {
+      "id": "stx_usr_1788469384862_lw8j1_1",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-08-21",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-08-21T21:03:10.846Z"
+    },
+    {
+      "id": "stx_usr_1788469384862_lw8j1_2",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-08-22",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-08-22T21:03:10.846Z"
+    },
+    {
+      "id": "stx_usr_1788469384862_lw8j1_3",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-08-23",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-08-23T21:03:10.846Z"
+    },
+    {
+      "id": "stx_usr_1788469384862_lw8j1_4",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-08-24",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-08-24T21:03:10.846Z"
+    },
+    {
+      "id": "stx_usr_1788469384862_lw8j1_5",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-08-25",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-08-25T21:03:10.846Z"
+    },
+    {
+      "id": "stx_usr_1788469384862_lw8j1_6",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-08-26",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-08-26T21:03:10.846Z"
+    },
+    {
+      "id": "stx_usr_1788469384862_lw8j1_7",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-08-27",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-08-27T21:03:10.846Z"
+    },
+    {
+      "id": "stx_usr_1788469384862_lw8j1_8",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-08-28",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-08-28T21:03:10.846Z"
+    },
+    {
+      "id": "stx_usr_1788469384862_lw8j1_9",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-08-29",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-08-29T21:03:10.846Z"
+    },
+    {
+      "id": "stx_usr_1788469384862_lw8j1_10",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-08-30",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-08-30T21:03:10.846Z"
+    },
+    {
+      "id": "stx_usr_1788469384862_lw8j1_11",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-08-31",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-08-31T21:03:10.846Z"
+    },
+    {
+      "id": "stx_usr_1788469384862_lw8j1_12",
+      "userId": "usr_1788469384862_lw8j1",
+      "goalId": "goal_usr_1788469384862_lw8j1_1",
+      "amount": 500,
+      "date": "2026-09-01",
+      "status": "COMPLETED",
+      "triggeredBy": "Daily income goal reached (>= ₹2,000)",
+      "createdAt": "2026-09-01T21:03:10.846Z"
+    }
+  ],
+  "bills": [
+    {
+      "id": "b_usr_1788469384862_lw8j1_1",
+      "userId": "usr_1788469384862_lw8j1",
+      "title": "Electricity Bill",
+      "amount": 1250,
+      "dueDate": "2026-09-05",
+      "category": "Electricity",
+      "reserved": true,
+      "reservedAt": "2026-09-03T21:03:10.847Z",
+      "status": "RESERVED",
+      "createdAt": "2026-09-03T21:03:10.847Z"
+    },
+    {
+      "id": "b_usr_1788469384862_lw8j1_2",
+      "userId": "usr_1788469384862_lw8j1",
+      "title": "Mobile Recharge",
+      "amount": 199,
+      "dueDate": "2026-09-08",
+      "category": "Mobile",
+      "reserved": true,
+      "reservedAt": "2026-09-03T21:03:10.847Z",
+      "status": "RESERVED",
+      "createdAt": "2026-09-03T21:03:10.847Z"
+    },
+    {
+      "id": "b_usr_1788469384862_lw8j1_3",
+      "userId": "usr_1788469384862_lw8j1",
+      "title": "Water Bill",
+      "amount": 600,
+      "dueDate": "2026-09-11",
+      "category": "Water",
+      "reserved": true,
+      "reservedAt": "2026-09-03T21:03:10.847Z",
+      "status": "RESERVED",
+      "createdAt": "2026-09-03T21:03:10.847Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log_1788469384863_3uta",
+      "userId": "usr_1788469384862_lw8j1",
+      "action": "USER_REGISTERED",
+      "details": "User Ravi Kumar created account",
+      "timestamp": "2026-09-03T21:03:04.863Z"
+    },
+    {
+      "id": "log_1788469390846_7g2v",
+      "userId": "usr_1788469384862_lw8j1",
+      "action": "USER_UPDATED",
+      "details": "Updated fields: incomeType",
+      "timestamp": "2026-09-03T21:03:10.846Z"
+    },
+    {
+      "id": "log_1788469390847_53s7",
+      "userId": "usr_1788469384862_lw8j1",
+      "action": "CONNECTED_ACCOUNT_SYNC",
+      "details": "Synchronized verified financial records from connected Account Aggregator",
+      "timestamp": "2026-09-03T21:03:10.847Z"
+    }
+  ]
+}

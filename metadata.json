@@ -1,0 +1,10 @@
+{
+  "name": "IncomeFlex",
+  "description": "Intelligent financial resilience platform for fixed and irregular income earners with smart tracking, prediction, savings, loan assistance, and voice support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
